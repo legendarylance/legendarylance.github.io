@@ -3,6 +3,8 @@ layout: post
 title: The Meritocracy Trap
 ---
 
+# Part One: Meritocracy and Its Discontents
+
 ## Chapter 3: The Coming Class War
 The middle class is not idle--reluctant to work. Rather it is increasingly
 
